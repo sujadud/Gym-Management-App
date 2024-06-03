@@ -1,0 +1,17 @@
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\bin\Debug\net7.0\GymManagement.Infrastructure.deps.json
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\bin\Debug\net7.0\GymManagement.Infrastructure.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\bin\Debug\net7.0\GymManagement.Infrastructure.pdb
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\bin\Debug\net7.0\GymManagement.Application.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\bin\Debug\net7.0\GymManagement.Domain.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\bin\Debug\net7.0\GymManagement.Application.pdb
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\bin\Debug\net7.0\GymManagement.Domain.pdb
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\obj\Debug\net7.0\GymManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\obj\Debug\net7.0\GymManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\obj\Debug\net7.0\GymManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\obj\Debug\net7.0\GymManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\obj\Debug\net7.0\GymManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\obj\Debug\net7.0\GymManagement.Infrastructure.csproj.CopyComplete
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\obj\Debug\net7.0\GymManagement.Infrastructure.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\obj\Debug\net7.0\refint\GymManagement.Infrastructure.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\obj\Debug\net7.0\GymManagement.Infrastructure.pdb
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Infrastructure\obj\Debug\net7.0\ref\GymManagement.Infrastructure.dll

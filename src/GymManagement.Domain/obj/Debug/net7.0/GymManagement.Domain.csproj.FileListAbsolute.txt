@@ -1,0 +1,11 @@
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\bin\Debug\net7.0\GymManagement.Domain.deps.json
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\bin\Debug\net7.0\GymManagement.Domain.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\bin\Debug\net7.0\GymManagement.Domain.pdb
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.AssemblyInfo.cs
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\refint\GymManagement.Domain.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.pdb
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\ref\GymManagement.Domain.dll
