@@ -9,3 +9,4 @@ C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Doma
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\refint\GymManagement.Domain.dll
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.pdb
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\ref\GymManagement.Domain.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Domain\obj\Debug\net7.0\GymManagement.Domain.sourcelink.json

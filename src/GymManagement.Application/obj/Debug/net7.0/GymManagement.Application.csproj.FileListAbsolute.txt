@@ -8,8 +8,9 @@ C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Appl
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.AssemblyInfoInputs.cache
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.AssemblyInfo.cs
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.csproj.CoreCompileInputs.cache
-C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.csproj.CopyComplete
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.dll
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Application\obj\Debug\net7.0\refint\GymManagement.Application.dll
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.pdb
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Application\obj\Debug\net7.0\ref\GymManagement.Application.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Application\obj\Debug\net7.0\GymManagement.Application.sourcelink.json
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Application\obj\Debug\net7.0\GymManag.E831DFE7.Up2Date

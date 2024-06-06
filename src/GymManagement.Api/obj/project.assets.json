@@ -121,6 +121,16 @@
           "bin/placeholder/GymManagement.Application.dll": {}
         }
       },
+      "GymManagement.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/GymManagement.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GymManagement.Contracts.dll": {}
+        }
+      },
       "GymManagement.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
@@ -489,6 +499,11 @@
       "path": "../GymManagement.Application/GymManagement.Application.csproj",
       "msbuildProject": "../GymManagement.Application/GymManagement.Application.csproj"
     },
+    "GymManagement.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../GymManagement.Contracts/GymManagement.Contracts.csproj",
+      "msbuildProject": "../GymManagement.Contracts/GymManagement.Contracts.csproj"
+    },
     "GymManagement.Domain/1.0.0": {
       "type": "project",
       "path": "../GymManagement.Domain/GymManagement.Domain.csproj",
@@ -498,6 +513,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "GymManagement.Application >= 1.0.0",
+      "GymManagement.Contracts >= 1.0.0",
       "Microsoft.AspNetCore.OpenApi >= 7.0.17",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
@@ -519,12 +535,14 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bluer-PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Bluer-PC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -533,6 +551,9 @@
           "projectReferences": {
             "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Application\\GymManagement.Application.csproj": {
               "projectPath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Application\\GymManagement.Application.csproj"
+            },
+            "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj"
             }
           }
         }
@@ -541,6 +562,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -575,7 +601,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.404\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }

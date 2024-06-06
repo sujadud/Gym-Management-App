@@ -29,9 +29,12 @@ C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\staticwebassets.build.json
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\staticwebassets.development.json
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\scopedcss\bundle\GymManagement.Api.styles.css
-C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\GymManagement.Api.csproj.CopyComplete
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\GymManagement.Api.dll
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\refint\GymManagement.Api.dll
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\GymManagement.Api.pdb
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\GymManagement.Api.genruntimeconfig.cache
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\ref\GymManagement.Api.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\GymManagement.Contracts.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\GymManagement.Contracts.pdb
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\GymManagement.Api.sourcelink.json
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\GymManag.B8D47D4D.Up2Date
