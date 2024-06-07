@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HMcV2QeB09qyNhC9C5eitWdLGLnnmoL2k8vtxFEYt++Xs6wx8jxot1KKrGZQ+MpAoDjbIU8x3osV+E5TnTy6Ng==",
+  "dgSpecHash": "Ni1CgPlRIswCjHgFhl20CuiM4UQrW7yIKyHDbSHAH7NSGt/auu24kxd0eIhJfohJUQ8Wq2hISS+wQzZQ9wzL1w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+  "projectFilePath": "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
