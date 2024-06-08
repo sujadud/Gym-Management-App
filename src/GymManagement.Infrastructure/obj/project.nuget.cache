@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KGcCiEMFmebi+bri3jOapr0cp94udje1oSzZd3yBXaEKkiaTKj62SzMCuEJQEr1gX3RiL73jEel2PbP7L3MGnA==",
+  "dgSpecHash": "bUGTwhUi1mPfLqgTm//8TIdPK+S9lxvHVmp6Enf702IUJTf7q73gDNJEF+do47qo5g5tk19w2jjWdf1IpXTq2A==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Bluer-PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
