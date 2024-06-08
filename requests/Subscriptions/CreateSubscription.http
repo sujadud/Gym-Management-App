@@ -5,7 +5,7 @@ POST {{host}}/Subscriptions
 Content-Type: application/json
 
 {
-    "SubscriptionType": "Free", // "Starter", "Pro"
+    "SubscriptionType": "Free",
     "AdminId": "{{adminId}}"
 }
 

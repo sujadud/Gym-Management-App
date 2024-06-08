@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {}
+    "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
+    "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
         "projectName": "GymManagement.Contracts",
-        "projectPath": "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
+        "projectPath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj",
         "packagesPath": "C:\\Users\\Bluer-PC\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

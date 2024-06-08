@@ -525,11 +525,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Api\\GymManagement.Api.csproj",
+      "projectUniqueName": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Api\\GymManagement.Api.csproj",
       "projectName": "GymManagement.Api",
-      "projectPath": "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Api\\GymManagement.Api.csproj",
+      "projectPath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Api\\GymManagement.Api.csproj",
       "packagesPath": "C:\\Users\\Bluer-PC\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Api\\obj\\",
+      "outputPath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -549,11 +549,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Application\\GymManagement.Application.csproj": {
-              "projectPath": "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Application\\GymManagement.Application.csproj"
+            "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Application\\GymManagement.Application.csproj": {
+              "projectPath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Application\\GymManagement.Application.csproj"
             },
-            "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
-              "projectPath": "c:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj"
+            "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj": {
+              "projectPath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Contracts\\GymManagement.Contracts.csproj"
             }
           }
         }
