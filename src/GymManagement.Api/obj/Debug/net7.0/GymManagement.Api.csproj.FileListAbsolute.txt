@@ -38,3 +38,8 @@ C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\GymManagement.Contracts.pdb
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\GymManagement.Api.sourcelink.json
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\obj\Debug\net7.0\GymManag.B8D47D4D.Up2Date
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\GymManagement.Infrastructure.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\GymManagement.Infrastructure.pdb
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\MediatR.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\MediatR.Contracts.dll
