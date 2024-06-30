@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Zy1oRZyWZ4fDxcfuN8YAcML/VkVzqh/GfwZyU4i7wiKFCJVChQa1iiCfddj0Is0OyXaqUmRM6DYIk8nXIS8jIw==",
+  "dgSpecHash": "H8voSFKyVrIrPU8sHrvjHsKKNPba5Z62o3KUBI79OhImSOb1ehfV1o9boCZy91q2OpVDabTyfzPcJfxfZKodFg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Api\\GymManagement.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Bluer-PC\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\Bluer-PC\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
     "C:\\Users\\Bluer-PC\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Bluer-PC\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.17\\microsoft.aspnetcore.openapi.7.0.17.nupkg.sha512",

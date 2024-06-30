@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Fn48To5HYz4ntw9l81MqW5CIPy/slcClJ5ksFnboAmwfU/xOOEx0yLv3cpThyW4b+4e7DmGgerqE85LLpCTMtQ==",
+  "dgSpecHash": "fQUV8szma79/YL6NlK/FL6BzrlYu8yI9Dc2WbTfFsUxnXWYm9jfsblDFMbHZayBHtjNujoC8qDyz4VEYTbnEtg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Bluer-PC\\source\\repos\\sujadud\\Gym Management App\\src\\GymManagement.Infrastructure\\GymManagement.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Bluer-PC\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",
     "C:\\Users\\Bluer-PC\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
     "C:\\Users\\Bluer-PC\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Bluer-PC\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"

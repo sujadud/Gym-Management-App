@@ -43,3 +43,4 @@ C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\GymManagement.Infrastructure.pdb
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\MediatR.dll
 C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\MediatR.Contracts.dll
+C:\Users\Bluer-PC\source\repos\sujadud\Gym Management App\src\GymManagement.Api\bin\Debug\net7.0\ErrorOr.dll
